@@ -1,0 +1,48 @@
+body {
+	background-color: #DFDCE3;
+}
+
+h1{
+	color: #4ABDAC;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 400%;
+}
+a:hover{
+	font-weight: bold;
+}
+.content {
+	background-color: #efcea5;
+	width: 1000px;
+	border-radius: 30px;
+	border: 10px dashed #FC4A1A;
+	padding: 15px;
+	margin:auto;
+}
+
+.prose {
+	font-family: Tahoma, Geneva, sans-serif;
+	
+}
+
+.navzone {
+	width: 150px;
+	border-radius: 30px;
+	border: 5px solid #FC4A1A;
+	padding: 15px;
+	background-color: #efcea5;
+	margin:auto;
+	
+}
+
+h3{
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #4ABDAC;
+}
+	
+
+h2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:120%;
+	color: #4ABDAC;
+	
+}
